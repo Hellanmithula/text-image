@@ -1,4 +1,4 @@
-# 🧠 Abstract
+#  Abstract
 
 This project demonstrates the use of the **Stable Diffusion** deep learning model to generate realistic images from textual descriptions. Using the `diffusers` library by Hugging Face, the model translates descriptive text prompts into high-quality digital artwork. 
 
@@ -6,11 +6,11 @@ In this example, the prompt *“a girl with a long gown and wings like a fairy�
 
 ---
 
-# 🖼️ Output
+#  Output
 
 ### **Text Prompt**
 > "girl with long gown and wings like fairy"
 
 ### **Generated Image**
-![Generated Fairy Girl](generated_image.png)
+![output](output.png)
 
